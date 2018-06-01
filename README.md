@@ -87,7 +87,8 @@ sistema ROT13.
 ## Diseño💙😉
 
 
-                                                   -cambios
+                                                    -cambios
+
 Se mantuvieron los emojis :)                                                   
 Se agrego la funcion de descifrado                                                   
 Los botones de ubicaron de forma vertical ,dejando de lado la anterior ubicacion horizontal                                             
