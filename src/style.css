@@ -1,0 +1,114 @@
+body {
+    background:linear-gradient(#000,#12195c,#11bfd6,#ffffff);/*color fondo degrade*/
+   
+}
+
+h1 {
+  cursor: default;
+  position: relative;
+  top:- 20%;
+  left: 0;
+  right: 0;
+  bottom: 600%;
+  height: 100%;
+  margin:center ;
+  display: block;
+  
+  -webkit-animation: bounce .3s ease infinite alternate;
+  
+  font-family: 'Erica One', cursive;
+  font-size: 80px;
+  color: #FFF;
+  text-align: center;
+  line-height: 100%;
+  text-shadow: 0 1px 0 #CCC,
+               0 2px 0 #CCC,
+               0 3px 0 #CCC,
+               0 4px 0 #CCC,
+               0 5px 0 #CCC,
+               0 6px 0 transparent,
+               0 7px 0 transparent,
+               0 8px 0 transparent,
+               0 9px 0 transparent,
+               0 10px 10px rgba(0, 0, 0, .6);
+}
+/* ANIMATION */
+@-webkit-keyframes bounce {
+  100% {
+    top: -20px;
+    
+    text-shadow: 0 1px 0 #CCC,
+                 0 2px 0 #CCC,
+                 0 3px 0 #CCC,
+                 0 4px 0 #CCC,
+                 0 5px 0 #CCC,
+                 0 6px 0 #CCC,
+                 0 7px 0 #CCC,
+                 0 8px 0 #CCC,
+                 0 9px 0 #CCC,
+                 0 30px 30px rgba(0, 0, 0, .3);
+  }
+}
+
+p{
+   
+    color:#fff;
+   font-family:'Rockwell', serif;/*tipografía texto*/
+   font-size: 25px; 
+   font-weight:bold;
+   color: #2c2c2c;
+   background-color: #d5d5d5;
+   letter-spacing: .05em;
+   text-shadow: 
+    4px 4px 0px #d5d5d5, 
+    7px 7px 0px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+    padding:10px;
+    text-align: center;
+    box-align:center;
+     
+
+    
+   }   
+div{
+     font-family:'Rockwell', serif;/*tipografía texto*/
+     font-size: 25%; 
+     font-weight:bold; 
+     text-align: center;
+     text-shadow: 
+     4px 4px 0px #d5d5d5, 
+     7px 7px 0px rgba(0, 0, 0, 0.2);
+     width:50;
+    }
+.bloquecito{
+      margin: 0 30% !important;
+    }
+    
+img.cumpleaños{
+      height: 30%;
+      width: 60%;
+      }
+img.advertencia{ 
+     height:50%;
+     width: 30% ;
+      }
+    
+      section{
+    
+      color:#fff ;
+      text-shadow: 10px 10px 27px #424242 ; 
+      font-family:'Rockwell', serif;/*tipografía texto*/
+      font-size: 20px; 
+      padding: 10px;  
+      text-align: center;
+      }  
+       textarea,input{
+        border-radius: 20px;
+        padding:10px;
+        font-weight:bold;
+        font-family:'Rockwell', serif;
+       }
+
+        
+
+  
