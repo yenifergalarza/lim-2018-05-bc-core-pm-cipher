@@ -74,12 +74,19 @@ sistema ROT13.
 3. TERCER PASO: presionar el boton click .
 4. ya esta tu mensaje cifrado en el otro cuadro de texto :)
    Ahora a ver el resultado del mensaje cifrado!!
+   
+   ![cifrado](https://user-images.githubusercontent.com/39390011/40936957-b61c6d3e-6802-11e8-8b34-f04204603dcd.gif)
+   
 5.QUINTO PASO: insertar un mensaje (texto,palabra) que queremos descifrar
 
 ![bfbca652-34a0-4269-826b-2cadaa02b3ab](https://user-images.githubusercontent.com/39390011/40810739-5d26f386-64f4-11e8-85c9-9233744218b2.jpg)
 
 6.SEXTO PASO: elegir un numero que funcionara como key , puedes escribirlo o seleccionarlo e  indicara cuántas posiciones queremos que      se desplace cada caracter en el descifrado.
 7. SETIMO PASO: presionar el boton click .
+
+
+![desc](https://user-images.githubusercontent.com/39390011/40938061-49cb5704-6806-11e8-8b9f-eb9399ebd515.gif)
+
 8. OCTAVO PASO: ya esta tu mensaje cifrado en el otro cuadro de texto :)
 
 ![efd76e2b-adb1-40f0-bd6a-5111f06af9a4](https://user-images.githubusercontent.com/39390011/40810740-5d475e50-64f4-11e8-8cc7-54057952dcbb.jpg)
@@ -100,12 +107,15 @@ sistema ROT13.
 
 - Ademas de un titulo (h1) dinamico
 
+![mayus](https://user-images.githubusercontent.com/39390011/40936930-9c1d6ae6-6802-11e8-80bf-6207d19c22ae.gif)
+
+
                                                     
- #### Antes 
+ ### Antes 
  
   ![laimg](https://user-images.githubusercontent.com/39390011/40935691-7fa9289a-67fe-11e8-8f88-161f6a1ba34a.PNG)
 
- #### Ahora 
+ ### Ahora 
  
  ![60fcced2-52f4-4df2-8353-625349813a32](https://user-images.githubusercontent.com/39390011/40810737-5cd144c2-64f4-11e8-837e-e32de59c1b9f.jpg)
 
