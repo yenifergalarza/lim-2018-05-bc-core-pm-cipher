@@ -89,18 +89,25 @@ sistema ROT13.
 
                                                     -cambios
 
-Se mantuvieron los emojis :)                                                   
-Se agrego la funcion de descifrado                                                   
-Los botones de ubicaron de forma vertical ,dejando de lado la anterior ubicacion horizontal                                             
-Se eligio un degradado manteniendo esa caracteristica de la version anterior ,pero cambiando los colores y tonos elegidos 
-Se eligieron nuevas imagenes sin fondo
-Ademas de un titulo (h1) dinamico
+- Se mantuvieron los emojis :)                                                   
+
+- Se agrego la funcion de descifrado                                                   
+
+- Los botones de ubicaron de forma vertical ,dejando de lado la anterior ubicacion horizontal                                             
+
+- Se eligio un degradado manteniendo esa caracteristica de la version anterior ,pero cambiando los colores y tonos elegidos 
+
+- Se eligieron nuevas imagenes sin fondo
+
+- Ademas de un titulo (h1) dinamico
 
                                                     
                                                     - Antes
+
 ![laimg](https://user-images.githubusercontent.com/39390011/40562671-9952dc3e-6027-11e8-92b4-7c4003f810d9.PNG)
 
                                                      - Ahora 
+
 ![60fcced2-52f4-4df2-8353-625349813a32](https://user-images.githubusercontent.com/39390011/40810737-5cd144c2-64f4-11e8-837e-e32de59c1b9f.jpg)
 
 
