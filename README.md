@@ -45,7 +45,7 @@ sistema ROT13.
 
 
 
- Este proyecto esta en desarolllo ,asi que no funciona con minusculas.
+ Este proyecto esta en desarolllo ,asi que no funciona con minusculas. (solo palabras en mayusculas)
  
 
   ![5dbb46c8-0e6e-495c-81c1-98f6a352101c](https://user-images.githubusercontent.com/39390011/40810742-5dacdb86-64f4-11e8-8028-1dfb885aa2d0.jpg)
@@ -85,9 +85,8 @@ sistema ROT13.
 ![efd76e2b-adb1-40f0-bd6a-5111f06af9a4](https://user-images.githubusercontent.com/39390011/40810740-5d475e50-64f4-11e8-8cc7-54057952dcbb.jpg)
 
 ## Diseño💙😉
-
-
-                                                    -cambios
+### Cambios 
+                                                
 
 - Se mantuvieron los emojis :)                                                   
 
@@ -102,13 +101,13 @@ sistema ROT13.
 - Ademas de un titulo (h1) dinamico
 
                                                     
-                                                    - Antes
+ #### Antes 
+ 
+  ![laimg](https://user-images.githubusercontent.com/39390011/40935691-7fa9289a-67fe-11e8-8f88-161f6a1ba34a.PNG)
 
-![laimg](https://user-images.githubusercontent.com/39390011/40562671-9952dc3e-6027-11e8-92b4-7c4003f810d9.PNG)
-
-                                                     - Ahora 
-
-![60fcced2-52f4-4df2-8353-625349813a32](https://user-images.githubusercontent.com/39390011/40810737-5cd144c2-64f4-11e8-837e-e32de59c1b9f.jpg)
+ #### Ahora 
+ 
+ ![60fcced2-52f4-4df2-8353-625349813a32](https://user-images.githubusercontent.com/39390011/40810737-5cd144c2-64f4-11e8-837e-e32de59c1b9f.jpg)
 
 
 
