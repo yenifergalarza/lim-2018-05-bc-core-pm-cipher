@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+@import url('https://fonts.googleapis.com/css?family=Itim');
 body {
     background:linear-gradient(#000,#12195c,#11bfd6,#ffffff);/*color fondo degrade*/
    
@@ -51,9 +53,9 @@ h1 {
 }
 
 p{
-   
+  
     color:#fff;
-   font-family:'Rockwell', serif;/*tipografía texto*/
+    /*tipografía texto*/
    font-size: 25px; 
    font-weight:bold;
    color: #2c2c2c;
@@ -71,7 +73,8 @@ p{
     
    }   
 div{
-     font-family:'Rockwell', serif;/*tipografía texto*/
+  /*tipografía texto*/
+  font-family: 'Lobster', cursive;
      font-size: 25%; 
      font-weight:bold; 
      text-align: center;
@@ -97,7 +100,7 @@ img.advertencia{
     
       color:#fff ;
       text-shadow: 10px 10px 27px #424242 ; 
-      font-family:'Rockwell', serif;/*tipografía texto*/
+      font-family: 'Itim', cursive;/*tipografía texto*/
       font-size: 20px; 
       padding: 10px;  
       text-align: center;
@@ -106,7 +109,7 @@ img.advertencia{
         border-radius: 20px;
         padding:10px;
         font-weight:bold;
-        font-family:'Rockwell', serif;
+        font-family: 'Lobster', cursive;
        }
 
         
